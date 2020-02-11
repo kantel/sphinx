@@ -17,9 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sphinx_test'
-copyright = '2019, kantel'
-author = 'kantel'
+project = 'Meine erste Sphinx-Doku'
+copyright = '2020, Jörg Kantel'
+author = 'Jörg Kantel'
+
+# The full version, including alpha/beta/rc tags
+release = '0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -43,7 +46,7 @@ language = 'de'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 
 # -- Options for HTML output -------------------------------------------------

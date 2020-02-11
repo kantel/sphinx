@@ -1,10 +1,10 @@
-.. sphinx_test documentation master file, created by
-   sphinx-quickstart on Fri Dec 13 11:37:42 2019.
+.. Meine erste Sphinx-Doku documentation master file, created by
+   sphinx-quickstart on Tue Feb 11 17:47:36 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sphinx_test's documentation!
-=======================================
+Welcome to Meine erste Sphinx-Doku's documentation!
+===================================================
 
 .. toctree::
    :maxdepth: 2
